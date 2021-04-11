@@ -5,3 +5,11 @@ I have written this calculator based on an [article](https://corporatefinanceins
 My other purpose of this calculator is to practice a little bit of  [Promises](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise) and [Promise.all](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
 
 Hope this may help someone anywhere.
+
+How to run
+
+```bash
+#Clone the repository
+git clone git@github.com:luizfllp/pivotpoints-calculator.git
+#Run the project 
+```
